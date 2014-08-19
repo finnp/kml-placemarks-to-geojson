@@ -8,7 +8,7 @@ Install with `npm install kml-placemarks-to-geojson`.
 ## Supported Geometry types
 
 KML | GeoJSON | Supported?
---- | ---
+---- | --- | ---
 Point | Point | Yes
 LineString | LineString | No
 Polygon | Polygon | No
