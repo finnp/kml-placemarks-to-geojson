@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <name>Cafe Regatta</name>
+    <description>You get 5 cents for every coffee refill here!</description>
+    <Point>
+      <coordinates>60.18017,24.911849,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Made in Kallio</name>
+    <description>Place to hang out for makers.</description>
+    <Point>
+      <coordinates>60.188269,24.95587,0</coordinates>
+    </Point>
+  </Placemark>
+</kml>
